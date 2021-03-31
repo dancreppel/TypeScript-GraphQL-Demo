@@ -1,1 +1,1 @@
-# TypeScript-GraphQL-Demo
+# Pokedex demoing TypeScript-GraphQL
